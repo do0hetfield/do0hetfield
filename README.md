@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=do0hetfield&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/do0hetfield"
-    width="600"
-    height="120"
-  />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=do0hetfield&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/do0hetfield"
+  width="600"
+  height="300"
+/>
 </a>
   
 <!--
